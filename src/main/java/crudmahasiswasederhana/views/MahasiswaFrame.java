@@ -89,7 +89,7 @@ public class MahasiswaFrame extends javax.swing.JFrame {
         loadData();
         isiTabel();
     }
-    
+//    keren
     void validasiInput (Mahasiswa o) {
         if (nimText.getText().equals("")) {
             nimValidasiLabel.setText("NIM belum diisi bang");
