@@ -65,10 +65,8 @@
                           </Group>
                           <Group type="103" groupAlignment="0" max="-2" attributes="0">
                               <Component id="namaValidasiLabel" alignment="1" min="-2" pref="220" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                  <Component id="nimValidasiLabel" max="32767" attributes="0"/>
-                                  <Component id="alamatValidasiLabel" alignment="0" max="32767" attributes="0"/>
-                              </Group>
+                              <Component id="nimValidasiLabel" max="32767" attributes="0"/>
+                              <Component id="alamatValidasiLabel" alignment="0" max="32767" attributes="0"/>
                               <Component id="nimText" max="32767" attributes="1"/>
                               <Component id="namaText" max="32767" attributes="1"/>
                               <Component id="alamatText" alignment="0" max="32767" attributes="1"/>
